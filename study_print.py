@@ -21,6 +21,7 @@ def pre_log(func):
 def hello(name):
     """hello func testmege"""
     print('hello,%s' % name)
+    print('hello testm,%s' % name)
 
 
 if __name__ == "__main__":
