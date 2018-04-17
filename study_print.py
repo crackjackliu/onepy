@@ -19,7 +19,7 @@ def pre_log(func):
 
 @pre_log
 def hello(name):
-    """hello func"""
+    """hello func testmege"""
     print('hello,%s' % name)
 
 
